@@ -1,0 +1,3 @@
+nano calculadora.sh
+chmod u+x,g=r,o=r calculadora.sh
+./calculadora.sh
